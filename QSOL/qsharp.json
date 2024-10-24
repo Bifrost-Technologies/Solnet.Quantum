@@ -1,0 +1,12 @@
+{
+    "target-framework": "net8.0",
+    "packages": [
+      "Microsoft.Quantum.Sdk",
+      "Microsoft.Quantum.Canon",
+      "Microsoft.Quantum.Intrinsic",
+      "Microsoft.Quantum.Convert",
+      "Microsoft.Quantum.Measurement",
+      "Microsoft.Quantum.Diagnostics",
+      "Microsoft.Quantum.Convert"
+    ]
+  }
